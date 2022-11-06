@@ -93,6 +93,10 @@ const config = {
                 label: 'Play',
                 href: 'https://torus.jacobdrath.co',
               },
+              {
+                label: 'Made by Jacob Drath',
+                href: 'https://zzz.jacobdrath.co',
+              },
             ],
           },
           {
