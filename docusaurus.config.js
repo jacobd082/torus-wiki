@@ -68,8 +68,13 @@ const config = {
             label: 'Getting Started',
           },
           {
+            href: 'https://torus.jacobdrath.co',
+            label: 'Play',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/jacobd082/torus-wiki',
-            label: 'Edit',
+            label: 'GitHub',
             position: 'right',
           },
         ],
