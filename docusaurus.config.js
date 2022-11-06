@@ -55,7 +55,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'Magic Torus Game',
+        title: 'Magic Torus Game Wiki',
         logo: {
           alt: 'MTG Logo',
           src: 'img/logo.png',

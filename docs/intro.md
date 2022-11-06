@@ -2,46 +2,58 @@
 sidebar_position: 1
 ---
 
-# Magic Torus Game Walkthrough
+# Magic Torus Game Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's get started on Magic Torus Game.
 
-## Getting Started
+## The Launcher
 
-Get started by **creating a new site**.
+When you first open Magic Torus Game, you are greeted by the launcher. The launcher is a seperate page, ran outside the game.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+The launcher allows you to configure many things about your game before you start playing.
 
-### What you'll need
+### Make a profile (Optional)
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+For a more personalized experience, you can make a profile.
 
-## Generate a new site
+Profiles do **NOT** use any personal data to be made, all that is required is a Username.
 
-Generate a new Docusaurus site using the **classic template**.
+- To create a profile, Click on "Profile" on the launcher.
+- From this page, click on the text where it says "Player" below the icon.
+- Enter in a Username **A USERNAME SHOULD NOT BE YOUR REAL NAME**
 
-The classic template will automatically be added to your project after you run the command:
+As you enter your username, You may notice how to icon changes above the text box. This is called your *Identicon*, this is unique to you, and is made by taking your username, and using math to makeit an image.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+You may notice that there is a link on the bottom of that page that will change as you enter your username. You can share this link to show others your profile. [You can see an example profile here](https://torus.jacobdrath.co/me.htm#Example).
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Choose an edition
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Magic Torus game is split into diforent types called *Editions*. These allow for different abilities. 
 
-## Start your site
+On the launcher, click the arrow next to the play button. There, their should be a mobile edition and a desktop edition. The way you choose between them is easy:
 
-Run the development server:
+> If you are playing on a desktop computer, select desktop editon, and vice versa.
 
-```bash
-cd my-website
-npm run start
-```
+Once you select an edition the game will start.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Playing the game
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+### Basic info
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Unlike many other games, Magic Torus game can only be moved in two directions; forward and back.
+
+The NPCs *(Non-Player Charictors)* are called toruses. As you continue throught the game, you will discover more toruses.
+
+### Keybinds
+
+#### Moving
+
+To move use the arrow keys, or the **W** and **S** keys.
+
+#### Other actions
+
+As you continue in the game, more keybindes will be intorduced. Try to remember them; They usually are the same letter that there action starts with. *(For example: "B" for Back)*
+
+## Have fun!
+
+We hope you enjoy Magic Torus Game!
