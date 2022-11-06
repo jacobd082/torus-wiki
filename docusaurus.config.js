@@ -65,7 +65,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Getting Started',
+            label: 'Wiki',
           },
           {
             href: 'https://torus.jacobdrath.co',
