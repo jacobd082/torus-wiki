@@ -22,7 +22,7 @@ Profiles do **NOT** use any personal data to be made, all that is required is a 
 - From this page, click on the text where it says "Player" below the icon.
 - Enter in a Username **A USERNAME SHOULD NOT BE YOUR REAL NAME**
 
-As you enter your username, You may notice how to icon changes above the text box. This is called your *Identicon*, this is unique to you, and is made by taking your username, and using math to makeit an image.
+As you enter your username, You may notice how to icon changes above the text box. This is called your *Identicon*, this is unique to you, and is made by taking your username, and using math to make it an image.
 
 You may notice that there is a link on the bottom of that page that will change as you enter your username. You can share this link to show others your profile. [You can see an example profile here](https://torus.jacobdrath.co/me.htm#Example).
 

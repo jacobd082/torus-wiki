@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/jacobd082/torus-wiki',
+            'https://github.com/jacobd082/torus-wiki/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
